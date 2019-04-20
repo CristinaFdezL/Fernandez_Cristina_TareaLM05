@@ -4,15 +4,10 @@
 		<nombre>Cristina</nombre>
 		<apellidos>Fernandez</apellidos>
 		<edad>32</edad>
-	<usuario>
+	</usuario>
 	<usuario>
 		<nombre>Maria</nombre>
 		<apellidos>Lopez</apellidos>
 		<edad>33</edad>
-	<usuario>
-	<usuario>
-		<nombre>Rocio</nombre>
-		<apellidos>Duran</apellidos>
-		<edad>34</edad>
-	<usuario>
+	</usuario>
 </usuarios>
