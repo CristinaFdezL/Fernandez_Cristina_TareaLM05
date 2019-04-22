@@ -5,9 +5,4 @@
 		<apellidos>Fernandez</apellidos>
 		<edad>32</edad>
 	</usuario>
-	<usuario>
-		<nombre>Maria</nombre>
-		<apellidos>Lopez</apellidos>
-		<edad>33</edad>
-	</usuario>
 </usuarios>
