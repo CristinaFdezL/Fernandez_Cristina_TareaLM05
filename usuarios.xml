@@ -4,5 +4,6 @@
 		<nombre>Cristina</nombre>
 		<apellidos>Fernandez</apellidos>
 		<edad>32</edad>
+		<anioNacimiento>87</anioNacimiento>
 	</usuario>
 </usuarios>
